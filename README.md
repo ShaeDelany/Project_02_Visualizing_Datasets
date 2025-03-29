@@ -1,4 +1,4 @@
-# Visualizing Data Sets <br><br>
+# Visualizing Data Sets 
 by Shae Delany
 
 
