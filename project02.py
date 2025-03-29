@@ -44,8 +44,9 @@ for ethnicity, count in kelly_counts.items():
 
 lab_dict = {
     'Hispanic': 12,
-    'White non-hispanic': 167,
-    'Black non-hispanic': 68,
+    'White non-Hispanic': 167,
+    'Black non-Hispanic': 68,
+    'Asian and Pacific Islander': 0,
     }
 
 
@@ -64,6 +65,7 @@ plt.xlabel('Ethnicity', fontweight='bold')
 plt.ylabel('Number of Kids Named Kelly', fontweight='bold')
 #plt.title('Distribution of the Name "Kelly" by Ethnicity', fontweight='bold')
 
+plt.xticks(rotation=30, ha='right')
 plt.tight_layout()  
 #plt.show()
 plt.savefig('kelly_baby_names.png')
