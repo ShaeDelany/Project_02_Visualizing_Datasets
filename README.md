@@ -6,7 +6,7 @@ by Shae Delany
 
 ![Graph including kelly baby names by ethnicity](kelly_baby_names.png)
 
-The bar chart displays the distribution of the name “Kelly” by ethnicity from 2011 to 2021, based on New York City birth records. The data shows that the name was most commonly given among White non-Hispanic individuals (167 occurrences), followed by Black non-Hispanic (68), and Hispanic (12). This suggests cultural or naming preferences vary significantly across ethnic groups during this time period.
+The bar chart displays the distribution of the name “Kelly” by ethnicity from 2011 to 2021, based on New York City birth records. The data shows that the name was most commonly given among White non-Hispanic individuals (167 occurrences), followed by Black non-Hispanic (68), and Hispanic (12). There were zero records of Asian and Pacific Islanders naming their child Kelly. This suggests cultural or naming preferences vary significantly across ethnic groups during this time period.
 
 [View the original data source here](https://catalog.data.gov/dataset/popular-baby-names)
 
