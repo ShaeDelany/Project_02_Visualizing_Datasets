@@ -1,4 +1,5 @@
 # Visualizing Data Sets <br><br>
+by Shae Delany
 
 
 ## Distribution of the Name "Kelly" by Ethnicity from 2011-2021
